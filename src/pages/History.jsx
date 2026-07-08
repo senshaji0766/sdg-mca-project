@@ -300,7 +300,7 @@ const improvementMessage =
 
             <p>⚡ Electricity: {report.electricity}</p>
 
-            <p>🍔 Food: {report.food}</p>
+            <p>🔥 Total Calories: {report.Calories} kcal</p>
             <p className="mt-2 text-gray-300">
                📅 Date:
                {" "}
